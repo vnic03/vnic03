@@ -9,14 +9,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=750&lines=%22Art+is+never+finished,+only+abandoned.%22+-+Leonardo+da+Vinci)](https://git.io/typing-svg)
-
-
-### ABOUT ME
-- I'm a student at TU Darmstadt.
-- I'm passionate about solving problems and creating innovative solutions that make a positive impact on the world.
-- I'm all in for teaming up on open-source projects – I love the idea of pitching in together to build something awesome.
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=750&lines=%22Art+is+never+finished,+only+abandoned.%22)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
@@ -50,7 +43,7 @@ Discord: v_nic03
 
 <div align="center">
     
-###### @2024
+###### @2025
 
 </div>
 
