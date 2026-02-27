@@ -5,8 +5,6 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vnic03&label=Profile%20views&color=0e75b6&style=flat" alt="vnic03" /> </p>
 
- <img align="right" alt="coding" width="300" src="https://th.bing.com/th/id/R.54e37d8074ebcde1d96c77d7b2a7f310?rik=fX3JSCseIbYcKA&pid=ImgRaw&r=0">
-
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&width=750&lines=%22Art+is+never+finished,+only+abandoned.%22)](https://git.io/typing-svg)
@@ -43,7 +41,7 @@ Discord: v_nic03
 
 <div align="center">
     
-###### @2025
+###### @2026
 
 </div>
 
