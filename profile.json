@@ -1,0 +1,14 @@
+{
+  "name": "Nico",
+  "handle": "vnic03",
+  "location": "Frankfurt am Main, Germany",
+  "intro": "I'm a computer science student in Frankfurt am Main, Germany. I build self-hosted web apps, terminal tools and games — from a stock research dashboard running on a Raspberry Pi to a Spotify player written in Rust.",
+  "linkedin": "https://www.linkedin.com/in/nicolas-petzel-8a18722b1/",
+  "discord": "v_nic03",
+  "projects": [
+    {"repo": "Profit-Pilot", "title": "Profit Pilot", "category": "SELF-HOSTED / FULL STACK", "color": "#a7f3d0", "art": "chart", "tagline": "From a Java experiment to a Raspberry Pi deployment.", "description": "A stock research dashboard with daily prices, technical indicators, company news and data exports. I run it on a Raspberry Pi 5, with Cloudflare Access and Tunnel handling access.", "detail": "The work goes beyond charts: data imports, API budgets, deployment and recovery are part of the project too.", "stack": "Java · Spring Boot · React · TypeScript · PostgreSQL", "extra": "[Hosted application](https://profit-pilot.trade) — invitation-only access."},
+    {"repo": "Mini-Player", "title": "Mini Player", "category": "TERMINAL / MUSIC", "color": "#c4b5fd", "art": "music", "tagline": "Spotify, one terminal away.", "description": "A compact Rust TUI for controlling Spotify playback and browsing playlists in the Kitty terminal. Includes keyboard controls and a PKCE login flow.", "detail": "", "stack": "Rust · Spotify API · Kitty", "extra": ""},
+    {"repo": "Pokedex", "title": "Pokédex", "category": "WEB / POKÉMON", "color": "#fda4af", "art": "dex", "tagline": "Explore the details. Build the team.", "description": "A Pokémon explorer with search, filters, evolutions, stats and cries, backed by locally stored PokéAPI data.", "detail": "In development: a team builder with AI-assisted VGC insights.", "stack": "React · JavaScript · Express · SQLite · Tailwind CSS", "extra": ""},
+    {"repo": "Asteroids", "title": "Asteroids", "category": "C++ / ARCADE", "color": "#fcd34d", "art": "asteroids", "tagline": "My first C++ project. With a co-op mode.", "description": "My take on the arcade classic, built with SFML: dodge asteroids, fight UFOs and chase persistent highscores. Play solo or together in co-op.", "detail": "", "stack": "C++ · SFML · CMake", "extra": "[Download & build instructions](https://github.com/vnic03/Asteroids#running-the-game)"}
+  ]
+}

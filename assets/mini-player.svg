@@ -1,0 +1,148 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="960"
+  height="176"
+  viewBox="0 0 960 176"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">Mini Player — Spotify, one terminal away.</title>
+  <rect width="960" height="176" rx="18" fill="#101820" />
+  <path d="M1 20V156" stroke="#c4b5fd" stroke-width="4" />
+
+  <g font-family="Verdana,DejaVu Sans,sans-serif">
+    <text
+      x="32"
+      y="36"
+      fill="#c4b5fd"
+      font-size="12"
+      letter-spacing="2"
+    >02 / TERMINAL / MUSIC</text>
+
+    <text
+      x="30"
+      y="88"
+      fill="#f3f6f4"
+      font-size="38"
+      font-weight="bold"
+    >Mini Player</text>
+
+    <text
+      x="32"
+      y="132"
+      fill="#b5c5cc"
+      font-size="17"
+    >Spotify, one terminal away.</text>
+  </g>
+
+  <g transform="translate(705 38)" fill="none">
+    <rect
+      x="0"
+      y="40.0"
+      width="7"
+      height="20"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.45"
+    />
+    <rect
+      x="17"
+      y="31.0"
+      width="7"
+      height="38"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.49"
+    />
+    <rect
+      x="34"
+      y="18.0"
+      width="7"
+      height="64"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.53"
+    />
+    <rect
+      x="51"
+      y="29.0"
+      width="7"
+      height="42"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.5700000000000001"
+    />
+    <rect
+      x="68"
+      y="6.0"
+      width="7"
+      height="88"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.61"
+    />
+    <rect
+      x="85"
+      y="20.0"
+      width="7"
+      height="60"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.65"
+    />
+    <rect
+      x="102"
+      y="1.0"
+      width="7"
+      height="98"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.69"
+    />
+    <rect
+      x="119"
+      y="22.5"
+      width="7"
+      height="55"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.73"
+    />
+    <rect
+      x="136"
+      y="12.0"
+      width="7"
+      height="76"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.77"
+    />
+    <rect
+      x="153"
+      y="32.5"
+      width="7"
+      height="35"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.81"
+    />
+    <rect
+      x="170"
+      y="25.0"
+      width="7"
+      height="50"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.8500000000000001"
+    />
+    <rect
+      x="187"
+      y="41.0"
+      width="7"
+      height="18"
+      rx="3"
+      fill="#c4b5fd"
+      opacity="0.89"
+    />
+  </g>
+</svg>

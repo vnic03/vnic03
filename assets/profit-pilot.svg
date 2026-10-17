@@ -1,0 +1,50 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="960"
+  height="176"
+  viewBox="0 0 960 176"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">Profit Pilot — From a Java experiment to a Raspberry Pi deployment.</title>
+  <rect width="960" height="176" rx="18" fill="#101820" />
+  <path d="M1 20V156" stroke="#a7f3d0" stroke-width="4" />
+
+  <g font-family="Verdana,DejaVu Sans,sans-serif">
+    <text
+      x="32"
+      y="36"
+      fill="#a7f3d0"
+      font-size="12"
+      letter-spacing="2"
+    >01 / SELF-HOSTED / FULL STACK</text>
+
+    <text
+      x="30"
+      y="88"
+      fill="#f3f6f4"
+      font-size="38"
+      font-weight="bold"
+    >Profit Pilot</text>
+
+    <text
+      x="32"
+      y="132"
+      fill="#b5c5cc"
+      font-size="17"
+    >From a Java experiment to a Raspberry Pi deployment.</text>
+  </g>
+
+  <g transform="translate(705 38)" fill="none">
+    <path
+      d="M0 90H210M0 50H210M0 10H210"
+      stroke="#2a3c47"
+    />
+    <path
+      d="M0 85L26 68L50 77L80 38L106 49L135 14L160 30L195 0"
+      stroke="#a7f3d0"
+      stroke-width="4"
+    />
+    <circle cx="195" r="5" fill="#a7f3d0" />
+  </g>
+</svg>

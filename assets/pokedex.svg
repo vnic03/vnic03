@@ -1,0 +1,57 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="960"
+  height="176"
+  viewBox="0 0 960 176"
+  role="img"
+  aria-labelledby="title"
+>
+  <title id="title">Pokédex — Explore the details. Build the team.</title>
+  <rect width="960" height="176" rx="18" fill="#101820" />
+  <path d="M1 20V156" stroke="#fda4af" stroke-width="4" />
+
+  <g font-family="Verdana,DejaVu Sans,sans-serif">
+    <text
+      x="32"
+      y="36"
+      fill="#fda4af"
+      font-size="12"
+      letter-spacing="2"
+    >03 / WEB / POKÉMON</text>
+
+    <text
+      x="30"
+      y="88"
+      fill="#f3f6f4"
+      font-size="38"
+      font-weight="bold"
+    >Pokédex</text>
+
+    <text
+      x="32"
+      y="132"
+      fill="#b5c5cc"
+      font-size="17"
+    >Explore the details. Build the team.</text>
+  </g>
+
+  <g transform="translate(705 38)" fill="none">
+    <circle
+      cx="100"
+      cy="48"
+      r="49"
+      stroke="#fda4af"
+      stroke-width="3"
+    />
+    <path d="M51 48H149" stroke="#fda4af" stroke-width="3" />
+    <circle
+      cx="100"
+      cy="48"
+      r="16"
+      fill="#101820"
+      stroke="#fda4af"
+      stroke-width="3"
+    />
+    <circle cx="100" cy="48" r="6" fill="#fda4af" />
+  </g>
+</svg>
