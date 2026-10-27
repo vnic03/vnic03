@@ -68,14 +68,14 @@ def hero(p):
     fill="#f3f6f4"
     font-size="80"
     font-weight="bold"
-  >Hi, I'm {esc(p["name"])}.</text>
+  >Hi, I'm {esc(p["name"])} (˶˃ ᵕ ˂˶)</text>
 
   <text
     x="44"
     y="198"
     fill="#b5c5cc"
     font-size="23"
-  >Web apps. Terminal tools. Arcade games.</text>
+  >Everything from Web apps to Arcade games.</text>
 
   <text
     x="44"
@@ -92,43 +92,11 @@ def hero(p):
     font-size="13"
   >{esc(p["location"])}</text>
 </g>
-
-<g transform="translate(740 58)" fill="none" stroke-width="2">
-  <circle cx="86" cy="86" r="82" stroke="#34505a" />
-
-  <ellipse
-    cx="86"
-    cy="86"
-    rx="82"
-    ry="30"
-    transform="rotate(-35 86 86)"
-    stroke="#a7f3d0"
-  />
-
-  <path
-    d="M86 34L123 116L86 100L49 116Z"
-    stroke="#c4b5fd"
-    fill="#18262e"
-  />
-
-  <circle
-    cx="19"
-    cy="132"
-    r="6"
-    fill="#a7f3d0"
-    stroke="#101820"
-  />
-</g>
-
-<g font-family="monospace" font-size="12" fill="#91a5b0">
-  <text x="746" y="290">IDEA → CODE → RUN</text>
-</g>
 """
-
     return svg(
         body,
         340,
-        f"{p['name']} — web apps, terminal tools and arcade games",
+        f"{p['name']} — web apps, arcade games",
     )
 
 
@@ -299,14 +267,12 @@ def build():
 | :--- | :--- | :--- |
 | Web applications | Java, Spring Boot, React, TypeScript | Profit Pilot |
 | Data & APIs | PostgreSQL, SQLite, Express | Profit Pilot, Pokédex |
-| Terminal interfaces | Rust, Spotify API | Mini Player |
 | Games | C++, SFML, CMake | Asteroids |
 | Self-hosting | Raspberry Pi, systemd, Cloudflare | Profit Pilot |
 
 ## Let's connect
 
 Find me on [LinkedIn]({p["linkedin"]}) or on Discord as **{p["discord"]}**.
-For questions about a project, open an issue in its repository.
 
 ---
 
@@ -348,5 +314,5 @@ if __name__ == "__main__":
     print(
         "Generated files are up to date."
         if args.check
-        else "README and five SVG assets generated."
+        else "README generated."
     )
