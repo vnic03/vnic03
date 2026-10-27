@@ -6,7 +6,7 @@
   role="img"
   aria-labelledby="title"
 >
-  <title id="title">Asteroids — My first C++ project. With a co-op mode.</title>
+  <title id="title">Asteroids — My first Indie Game</title>
   <rect width="960" height="176" rx="18" fill="#101820" />
   <path d="M1 20V156" stroke="#fcd34d" stroke-width="4" />
 
@@ -17,7 +17,7 @@
       fill="#fcd34d"
       font-size="12"
       letter-spacing="2"
-    >04 / C++ / ARCADE</text>
+    >02 / C++ / ARCADE</text>
 
     <text
       x="30"
@@ -32,7 +32,7 @@
       y="132"
       fill="#b5c5cc"
       font-size="17"
-    >My first C++ project. With a co-op mode.</text>
+    >My first Indie Game</text>
   </g>
 
   <g transform="translate(705 38)" fill="none">

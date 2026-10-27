@@ -6,7 +6,7 @@
   role="img"
   aria-labelledby="title"
 >
-  <title id="title">Nico — web apps, terminal tools and arcade games</title>
+  <title id="title">Nico — web apps, arcade games</title>
   <rect width="960" height="340" rx="18" fill="#101820" />
   <defs>
     <linearGradient id="fade">
@@ -55,14 +55,14 @@
       fill="#f3f6f4"
       font-size="80"
       font-weight="bold"
-    >Hi, I'm Nico.</text>
+    >Hi, I'm Nico (˶˃ ᵕ ˂˶)</text>
 
     <text
       x="44"
       y="198"
       fill="#b5c5cc"
       font-size="23"
-    >Web apps. Terminal tools. Arcade games.</text>
+    >Everything from Web apps to Arcade games.</text>
 
     <text
       x="44"
@@ -78,36 +78,5 @@
       fill="#91a5b0"
       font-size="13"
     >Frankfurt am Main, Germany</text>
-  </g>
-
-  <g transform="translate(740 58)" fill="none" stroke-width="2">
-    <circle cx="86" cy="86" r="82" stroke="#34505a" />
-
-    <ellipse
-      cx="86"
-      cy="86"
-      rx="82"
-      ry="30"
-      transform="rotate(-35 86 86)"
-      stroke="#a7f3d0"
-    />
-
-    <path
-      d="M86 34L123 116L86 100L49 116Z"
-      stroke="#c4b5fd"
-      fill="#18262e"
-    />
-
-    <circle
-      cx="19"
-      cy="132"
-      r="6"
-      fill="#a7f3d0"
-      stroke="#101820"
-    />
-  </g>
-
-  <g font-family="monospace" font-size="12" fill="#91a5b0">
-    <text x="746" y="290">IDEA → CODE → RUN</text>
   </g>
 </svg>

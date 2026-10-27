@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/nicolas-petzel-8a18722b1/">LinkedIn</a>
 </p>
 
-I'm a computer science student in Frankfurt am Main, Germany. I build self-hosted web apps, terminal tools and games — from a stock research dashboard running on a Raspberry Pi to a Spotify player written in Rust.
+I'm a computer science student in Frankfurt am Main, Germany. I build self-hosted web apps and games.
 
 ## Selected projects
 
@@ -29,15 +29,15 @@ The work goes beyond charts: data imports, API budgets, deployment and recovery 
 
 [Explore the code →](https://github.com/vnic03/Profit-Pilot) · [Hosted application](https://profit-pilot.trade) — invitation-only access.
 
-### 02 · [Mini Player](https://github.com/vnic03/Mini-Player)
+### 02 · [Asteroids](https://github.com/vnic03/Asteroids)
 
-[![Spotify, one terminal away.](./assets/mini-player.svg)](https://github.com/vnic03/Mini-Player)
+[![My first Indie Game](./assets/asteroids.svg)](https://github.com/vnic03/Asteroids)
 
-A compact Rust TUI for controlling Spotify playback and browsing playlists in the Kitty terminal. Includes keyboard controls and a PKCE login flow.
+My take on the arcade classic, built with SFML: dodge asteroids, fight UFOs and chase persistent highscores. Play solo or together in co-op.
 
-**Built with:** Rust · Spotify API · Kitty
+**Built with:** C++ · SFML · CMake
 
-[Explore the code →](https://github.com/vnic03/Mini-Player)
+[Explore the code →](https://github.com/vnic03/Asteroids) · [Download & build instructions](https://github.com/vnic03/Asteroids#running-the-game)
 
 ### 03 · [Pokédex](https://github.com/vnic03/Pokedex)
 
@@ -51,30 +51,18 @@ In development: a team builder with AI-assisted VGC insights.
 
 [Explore the code →](https://github.com/vnic03/Pokedex)
 
-### 04 · [Asteroids](https://github.com/vnic03/Asteroids)
-
-[![My first C++ project. With a co-op mode.](./assets/asteroids.svg)](https://github.com/vnic03/Asteroids)
-
-My take on the arcade classic, built with SFML: dodge asteroids, fight UFOs and chase persistent highscores. Play solo or together in co-op.
-
-**Built with:** C++ · SFML · CMake
-
-[Explore the code →](https://github.com/vnic03/Asteroids) · [Download & build instructions](https://github.com/vnic03/Asteroids#running-the-game)
-
 ## Tools in context
 
 | Area | What I use | Where it shows up |
 | :--- | :--- | :--- |
 | Web applications | Java, Spring Boot, React, TypeScript | Profit Pilot |
 | Data & APIs | PostgreSQL, SQLite, Express | Profit Pilot, Pokédex |
-| Terminal interfaces | Rust, Spotify API | Mini Player |
 | Games | C++, SFML, CMake | Asteroids |
 | Self-hosting | Raspberry Pi, systemd, Cloudflare | Profit Pilot |
 
 ## Let's connect
 
 Find me on [LinkedIn](https://www.linkedin.com/in/nicolas-petzel-8a18722b1/) or on Discord as **v_nic03**.
-For questions about a project, open an issue in its repository.
 
 ---
 
